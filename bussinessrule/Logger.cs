@@ -18,7 +18,6 @@ namespace BussinessRule
             if (!Directory.Exists(fdicectory))
             {
                 Directory.CreateDirectory(file);
-
             }
             if (!File.Exists(file))
             {

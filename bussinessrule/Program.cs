@@ -17,6 +17,14 @@ namespace BussinessRule
             Order order = new Order(new List<OrderItem> { orderItem });
 
             order.Process();
+
+            //*******************************
+            //orderItem.product = new Book { ID = 1, Name = "Book", Price = 10 };
+            //orderItem.Qty = 1;
+
+            //order.Process();
+
+            //**********************************
         }
     }
 }

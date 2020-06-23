@@ -4,3 +4,10 @@ E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRule\bin\Debug
 E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRule\obj\Debug\BussinessRule.csproj.CoreCompileInputs.cache
 E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRule\obj\Debug\BussinessRule.exe
 E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRule\obj\Debug\BussinessRule.pdb
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\bin\Debug\BussinessRule.exe.config
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\bin\Debug\BussinessRule.exe
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\bin\Debug\BussinessRule.pdb
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\obj\Debug\BussinessRule.csproj.CoreCompileInputs.cache
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\obj\Debug\BussinessRule.exe
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\obj\Debug\BussinessRule.pdb
+E:\Pradee\DotNetApp\Maesrk Test\BussinessRule\BussinessRule\obj\Debug\BussinessRule.csprojAssemblyReference.cache
