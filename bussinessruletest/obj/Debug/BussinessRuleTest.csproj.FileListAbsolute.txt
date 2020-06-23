@@ -1,0 +1,16 @@
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\BussinessRuleTest.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\BussinessRuleTest.pdb
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\obj\Debug\BussinessRuleTest.csproj.CoreCompileInputs.cache
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\obj\Debug\BussinessRuleTest.csproj.CopyComplete
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\obj\Debug\BussinessRuleTest.dll
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\obj\Debug\BussinessRuleTest.pdb
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\BussinessRule.exe
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\BussinessRule.pdb
+E:\Pradee\DotNetApp\Maesrk Test\BussinessR\BussinessRule\BussinessRuleTest\bin\Debug\BussinessRule.exe.config
