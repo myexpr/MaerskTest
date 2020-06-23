@@ -8,8 +8,15 @@ namespace BussinessRule
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            OrderItem orderItem = new OrderItem();
+            orderItem.product = new Product { ID = 1, Name = "Physical Item", Price = 10 };
+            orderItem.Qty = 1;
+
+            Order order = new Order(new List<OrderItem> { orderItem });
+
+            order.Process();
         }
     }
 }
